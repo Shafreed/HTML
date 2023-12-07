@@ -1,0 +1,22 @@
+.h1{
+    font-family: arial;
+    color: red;
+    text-align: center;
+    font-size: 58px;
+}
+.h2{
+    font-family: impact;
+    color: blue;
+}
+#header{
+    background-color: aqua;
+    text-align: end;
+    font-size: 30px;
+    
+}
+#header a{
+    color:blue;
+}
+ul{
+    background-color: blueviolet;
+}
